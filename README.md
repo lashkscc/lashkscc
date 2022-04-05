@@ -2,9 +2,10 @@
 
 Currently using this account for progress through SCC's Database Administration and Development program, expected to be between W2022 - Su2022.
 I'm currently taking
-- IT111
-- IT115
-- IT120
+- IT112
+- IT161
+- IT225
+- IT125 (NSC)
 
 If needed, please contact @  [louis.ash-kaufman@seattlecolleges.edu.](mailto:louis.ash-kaufman@seattlecolleges.edu)
 
