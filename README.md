@@ -1,6 +1,6 @@
 ## Hi there!
 
-Currently using this account for progress through SCC's Database Administration and Development program, expected to be between W2022 - Su2022.
+Currently using this account for progress through SCC's Database Administration and Development program, expected to be between W2022 - F2022.
 I'm currently taking
 - IT112
 - IT125
