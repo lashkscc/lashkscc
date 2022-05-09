@@ -3,7 +3,7 @@
 Currently using this account for progress through SCC's Database Administration and Development program, expected to be between W2022 - Su2022.
 I'm currently taking
 - IT112
-- IT161
+- IT125
 - IT225
 - IT125 (NSC)
 
