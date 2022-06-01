@@ -4,7 +4,7 @@ Currently using this account for progress through SCC's Database Administration 
 I'm currently taking
 - IT112 Web programming with python
 - IT125 Intro to data analytics
-- IT225 Systems Analysis
+- IT225 Systems analysis
 - IT125 (NSC) SQL
 
 If needed, please contact @  [louis.ash-kaufman@seattlecolleges.edu.](mailto:louis.ash-kaufman@seattlecolleges.edu)
