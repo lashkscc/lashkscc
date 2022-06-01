@@ -2,10 +2,10 @@
 
 Currently using this account for progress through SCC's Database Administration and Development program, expected to be between W2022 - F2022.
 I'm currently taking
-- IT112
-- IT125
-- IT225
-- IT125 (NSC)
+- IT112 Web programming with python
+- IT125 Intro to data analytics
+- IT225 Systems Analysis
+- IT125 (NSC) SQL
 
 If needed, please contact @  [louis.ash-kaufman@seattlecolleges.edu.](mailto:louis.ash-kaufman@seattlecolleges.edu)
 
